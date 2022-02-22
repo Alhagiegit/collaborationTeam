@@ -1,0 +1,7 @@
+{
+  "name": "provagit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
